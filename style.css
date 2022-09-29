@@ -1,0 +1,23 @@
+.review-container {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.title {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    text-decoration: underline;
+}
+
+.review {
+    margin: 0;
+}
+
+.stars {
+    width: 100%;
+    text-align: right;
+}
